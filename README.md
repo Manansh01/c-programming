@@ -35,7 +35,7 @@ For each topic, I focus on:
 - [x] Basics
 - [x] Operators
 - [x] Conditional Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] Arrays
 - [ ] Strings
